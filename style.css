@@ -4,7 +4,10 @@ background-color: black;
 h1{
     color:blue;
     text-align :center;
+    font-family: 'Roboto', sans-serif;
+
 }
+
 p{
     color:green;
     text-align: center;
@@ -13,3 +16,8 @@ p{
 #messiimg{
  border-radius: 50%;
 }
+h2{
+    color: blanchedalmond;
+}
+
+
